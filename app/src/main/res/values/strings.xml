@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Hydro-Hub</string>
+
+    //NORTH
+
+    <string name="NorthArea">Waterlevel 1</string>
+    <string name="NorthDuration">
+\Bedford Centre
+
+\Van Buuren
+
+\Eldred
+    </string>
+
+    //SOUTH
+
+    <string name="SouthArea">Waterlevel 3
+</string>
+
+    <string name="SouthDuration">\Bedford Centre
+
+\Van Buuren
+
+\Eldred</string>
+
+    //EAST
+
+    <string name="EastArea">Waterlevel 0</string>
+    <string name="EastDuration">\Bedford Centre
+
+\Van Buuren
+
+\Eldred</string>
+
+    //WEST
+
+    <string name="WestArea">Waterlevel 1 </string>
+    <string name="WestDuration">\Bedford Centre
+
+\Van Buuren
+
+\Eldred</string>
+
+</resources>
